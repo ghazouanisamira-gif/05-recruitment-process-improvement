@@ -200,3 +200,10 @@ The purpose is to demonstrate the **operating model, reasoning and transferable 
 PMP® | Lean Six Sigma Black Belt | QSE/QHSE Management
 
 **Quality & PMO | Project & Operational Excellence | Risk Management**
+
+## Related Portfolio Evidence
+
+This repository focuses on the **Recruitment Operations operating model**. The analytical Lean Six Sigma evidence is maintained separately:
+
+- [Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation)
+- [Operational Performance Framework](https://github.com/ghazouanisamira-gif/03-operational-performance)
