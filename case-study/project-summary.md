@@ -6,39 +6,76 @@
 
 ## Objective
 
-Strengthen recruitment as an operational performance process by connecting workforce requirements, candidate flow, selection, onboarding and early retention.
+Transform recruitment into a structured operational system connecting workforce demand, data, candidate flows, sourcing channels, recruitment capability, onboarding and early retention.
 
 ## Starting Point
 
-The recruitment function needed:
+The transformation required more than reviewing the recruitment process. It required the organization of a broader ecosystem involving:
 
-- clearer process ownership
-- stronger workforce alignment
-- structured candidate tracking
-- consistent KPI definitions
-- recurring management routines
-- stronger Recruitment–Operations coordination
+- workforce requirements
+- recruitment data and candidate flows
+- sourcing channels
+- acquisition and communication actions
+- recruitment roles and capabilities
+- training and assessment
+- onboarding
+- reporting and management routines
+- cross-functional coordination
+
+## Transformation Sequence
+
+The work was structured around:
+
+**Organize → Collect → Understand → Analyze → Plan → Act → Measure → Adjust → Sustain**
+
+### 1. Organize
+
+Clarify the recruitment operating model, roles, responsibilities, interfaces and planning rhythm.
+
+### 2. Collect
+
+Structure the data required to understand recruitment activity, candidate progression, sourcing performance and outcomes.
+
+### 3. Understand
+
+Analyze the recruitment flows, bottlenecks, conversion losses, lead times, channel contribution and links with onboarding / early retention.
+
+### 4. Plan
+
+Translate findings into a structured roadmap covering process improvements, sourcing actions, capability development, coaching and governance.
+
+### 5. Act
+
+Deploy actions across process, data, sourcing, people development, communication, onboarding and management routines.
+
+### 6. Measure & Adjust
+
+Use reporting, coaching, reviews and KPI analysis to evaluate effectiveness, make decisions and adjust the operating model.
+
+## Capability Development
+
+Recruitment capability was addressed at multiple levels, including the Recruitment Officer / Specialist and Recruitment Manager / Lead.
+
+Development covered:
+
+- métier and role knowledge
+- recruitment methods
+- candidate evaluation
+- communication
+- assessment consistency
+- follow-up practices
+- reporting and data interpretation
+- coaching and management routines
+
+Training was connected to **application → evaluation → feedback → follow-up → reinforcement**.
 
 ## Target Operating Model
 
-**Workforce Need → Sourcing → Screening → Selection → Onboarding → Early Retention**
+**Workforce Need → Planning → Sourcing → Screening → Selection → Training Readiness → Onboarding → Early Retention → Review**
 
 with:
 
-**Owner → KPI → Review → Action → Control**
-
-## Transformation
-
-The project structured:
-
-1. End-to-end recruitment flow
-2. Candidate funnel monitoring
-3. Roles and responsibilities
-4. Recruitment KPIs
-5. Performance reporting
-6. Cross-functional coordination
-7. Improvement actions
-8. Sustainability controls
+**Owner → Data → KPI → Decision → Action → Control**
 
 ## Outcomes
 
@@ -51,6 +88,6 @@ The project structured:
 
 Recruitment performance depends on the connection between:
 
-**Demand + Process + Data + People + Governance + Continuous Improvement**
+**Demand + Data + Flow + Channels + People + Capability + Governance + Action**
 
-This case demonstrates how an HR-related process can be managed with the same discipline applied to broader operational transformation.
+The project demonstrates how multiple recruitment workstreams can be integrated into one structured performance system rather than managed as isolated activities.
