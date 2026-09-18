@@ -2,41 +2,69 @@
 
 ## Objective
 
-Identify the process and organizational factors that may contribute to recruitment performance gaps and early employee attrition.
+Identify and validate the process, organizational and operational factors associated with recruitment performance gaps and early employee attrition.
 
-## Areas of Analysis
+## Cause Categories
 
-Potential causes can be grouped into:
+### People
+- recruitment capability
+- interviewer consistency
+- role understanding
+- onboarding ownership
 
-- People
-- Process
-- Tools & Data
-- Management
-- Candidate Experience
-- Operational Environment
+### Process
+- unclear workflow
+- excessive handoffs
+- inconsistent screening
+- missing controls
+- rework
 
-## Analytical Approach
+### Data & Tools
+- fragmented candidate information
+- inconsistent definitions
+- limited visibility
+- missing historical tracking
 
-**Problem → Hypotheses → Evidence → Validation → Action**
+### Governance
+- unclear accountability
+- weak review routines
+- delayed escalation
+- insufficient Recruitment–Operations alignment
 
-Potential causes should not be treated as confirmed root causes without supporting evidence.
+### Candidate Experience
+- expectation mismatch
+- communication gaps
+- process delays
+- insufficient role transparency
 
-## Methods
+## Validation Logic
 
-Depending on the problem and available data:
+**Problem → Hypothesis → Evidence → Validation → Prioritization → Action**
 
-- Pareto Analysis
+A plausible cause is not automatically a confirmed root cause.
+
+## Analysis Methods
+
+Depending on the question and data available:
+
+- Pareto
 - 5 Whys
-- Cause & Effect Analysis
-- Process Analysis
-- Data Segmentation
-- Statistical Analysis
+- Cause & Effect
+- Process analysis
+- segmentation
+- Chi-Square
+- Logistic Regression
 
-## Improvement Principle
+## Decision Rule
 
-Focus improvement efforts on causes that are:
+Prioritize causes that are:
 
-1. Supported by evidence
-2. Actionable
-3. Relevant to the business outcome
-4. Sustainable through process controls
+1. evidence-supported
+2. actionable
+3. relevant to the business outcome
+4. controllable through process or governance
+5. sustainable through an explicit control
+
+## Confidentiality
+
+Candidate-level and employee-level data are not published in this portfolio repository.
