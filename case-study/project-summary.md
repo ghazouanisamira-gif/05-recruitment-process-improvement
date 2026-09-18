@@ -1,46 +1,56 @@
-# Project Summary
+# Recruitment Operations — Project Summary
+
+## Project Period
+
+**December 2023 – January 2026**
 
 ## Objective
 
-Improve recruitment process performance and early employee retention through structured process improvement.
+Strengthen recruitment as an operational performance process by connecting workforce requirements, candidate flow, selection, onboarding and early retention.
 
 ## Starting Point
 
-The recruitment function required stronger process visibility, clearer governance and more consistent performance monitoring.
+The recruitment function needed:
 
-## Approach
+- clearer process ownership
+- stronger workforce alignment
+- structured candidate tracking
+- consistent KPI definitions
+- recurring management routines
+- stronger Recruitment–Operations coordination
 
-**Map → Measure → Analyze → Improve → Control**
+## Target Operating Model
 
-The project combined:
+**Workforce Need → Sourcing → Screening → Selection → Onboarding → Early Retention**
 
-- Lean Six Sigma
-- Process analysis
-- KPI management
-- Root cause analysis
-- Cross-functional coordination
-- Continuous improvement
+with:
 
-## Transformation Focus
+**Owner → KPI → Review → Action → Control**
 
-The work addressed:
+## Transformation
 
-- Recruitment workflow
-- Candidate flow
-- Roles and responsibilities
-- Performance indicators
-- Recruitment / Operations coordination
-- Management routines
-- Sustainability controls
+The project structured:
 
-## Outcome
+1. End-to-end recruitment flow
+2. Candidate funnel monitoring
+3. Roles and responsibilities
+4. Recruitment KPIs
+5. Performance reporting
+6. Cross-functional coordination
+7. Improvement actions
+8. Sustainability controls
 
-The project established a more structured foundation for recruitment performance management and continuous improvement.
+## Outcomes
 
-Specific confidential financial assumptions, employee information and proprietary operational details are intentionally excluded from this public case study.
+- Early attrition: **28% → 10%**
+- Relative reduction: **−64%**
+- Initial target: **<15% — achieved**
+- Operational SLA compliance: **100%**, versus a previously observed 60–70% range
 
 ## Key Takeaway
 
-Recruitment improvement is not only about hiring faster. It requires a connected system of:
+Recruitment performance depends on the connection between:
 
-**Process + Data + People + Governance + Continuous Improvement**
+**Demand + Process + Data + People + Governance + Continuous Improvement**
+
+This case demonstrates how an HR-related process can be managed with the same discipline applied to broader operational transformation.
