@@ -207,3 +207,18 @@ This repository focuses on the **Recruitment Operations operating model**. The a
 
 - [Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation)
 - [Operational Performance Framework](https://github.com/ghazouanisamira-gif/03-operational-performance)
+
+
+## Recruitment Capability & Manager Enablement
+
+The transformation included a structured people-development layer for recruitment contributors and managers.
+
+Capability development covered role clarification, recruitment techniques, candidate evaluation, communication, data/reporting practices, onboarding, coaching and continuous improvement.
+
+Where relevant, the enablement toolkit included **level / competency assessments, training-needs analysis, individual development plans, coaching sheets, debrief forms, evaluation grids, knowledge checks, learning modules, micro-learning / MOOC-style sequences, job aids, checklists, manager To-Do Lists, follow-up trackers and reassessment**.
+
+The development cycle was:
+
+**Assess → Diagnose → Develop → Apply → Observe → Feedback → Follow Up → Reassess**
+
+Manager onboarding also focused on adapting daily routines, tools, priorities, reporting and team-management practices to the role. Team workshops, knowledge sharing and team-building activities could support collaboration and adoption where appropriate.
