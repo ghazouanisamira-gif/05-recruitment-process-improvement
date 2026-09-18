@@ -4,6 +4,9 @@
 
 A practical case study showing how recruitment was managed as a **full operational transformation**, connecting workforce demand, process design, data collection, candidate-flow analysis, sourcing channels, recruitment capability, onboarding and early retention.
 
+**Project Period:** 2024–2026  
+**Portfolio Documentation:** 2026
+
 This repository complements the Lean Six Sigma transformation case by focusing specifically on the **Recruitment Operations operating model**: organizing the information, understanding the flows, designing the actions, developing the people responsible for recruitment, and sustaining performance through reporting, coaching and management decisions.
 
 ## Business Context
