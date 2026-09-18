@@ -137,15 +137,11 @@ The operating model connected Recruitment with Operations and relevant support f
 
 ## Key Results
 
-The associated transformation delivered measurable improvement in the main outcome indicator:
+The broader recruitment transformation is supported by a documented Lean Six Sigma case study.
 
-**Early attrition (<6 months): 28% → 10%**
+For the validated quantitative outcomes and statistical improvement analysis, see [Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation).
 
-This represents an approximate **64% relative reduction**, with the original project target of below 15% achieved.
-
-Operational SLA compliance also reached **100%**, compared with a previously observed range of approximately 60–70%.
-
-Detailed source data and internal financial assumptions are intentionally excluded.
+This repository intentionally focuses on the **Recruitment Operations operating model**, workforce alignment, sourcing, capability development, governance and performance routines rather than duplicating the analytical case.
 
 ## Deliverables
 
