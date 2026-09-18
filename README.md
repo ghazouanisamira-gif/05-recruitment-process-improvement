@@ -2,9 +2,9 @@
 
 ## Recruitment Operations & Workforce Performance — Anonymized Case Study
 
-A practical case study showing how recruitment can be managed as an **end-to-end operational process**, connecting workforce demand, candidate flow, selection quality, onboarding and early retention.
+A practical case study showing how recruitment was managed as a **full operational transformation**, connecting workforce demand, process design, data collection, candidate-flow analysis, sourcing channels, recruitment capability, onboarding and early retention.
 
-This repository complements the Lean Six Sigma transformation case by focusing specifically on the **Recruitment Operations operating model**: process design, governance, KPIs, coordination and management routines.
+This repository complements the Lean Six Sigma transformation case by focusing specifically on the **Recruitment Operations operating model**: organizing the information, understanding the flows, designing the actions, developing the people responsible for recruitment, and sustaining performance through reporting, coaching and management decisions.
 
 ## Business Context
 
@@ -12,72 +12,125 @@ The project was conducted in a high-volume **Customer Contact Center / BPO envir
 
 Recruitment was treated as a business process connected to workforce capacity and service continuity — not simply as an administrative HR activity.
 
+## Transformation Logic
+
+The work followed a structured management sequence:
+
+**Organize → Collect → Understand → Analyze → Plan → Act → Measure → Adjust → Sustain**
+
+The transformation combined several interconnected workstreams rather than relying on process documentation alone.
+
 ## Operating Model
 
-**Workforce Demand → Recruitment Planning → Sourcing → Screening → Selection → Onboarding Alignment → Early Retention → Performance Review**
+**Workforce Demand → Recruitment Planning → Sourcing Strategy → Screening → Selection → Training Readiness → Onboarding → Early Retention → Performance Review**
 
 Each stage was linked to:
 
 **Owner → Input → Activity → Output → KPI → Control**
 
-## Key Transformation Areas
+## Key Transformation Workstreams
 
-### 1. Workforce-to-Recruitment Alignment
+### 1. Process & Workforce Alignment
 
-Recruitment requirements were connected to operational workforce needs.
+Recruitment requirements were connected to operational workforce needs, staffing plans and timing constraints.
 
-The management question moved from:
+The process was mapped end-to-end to clarify:
 
-> “How many candidates did we process?”
-
-to:
-
-> “Are recruitment activities producing the workforce required by the operation?”
-
-### 2. Process Standardization
-
-The recruitment journey was structured around:
-
-- workforce request
-- sourcing
-- screening
-- interviews
-- selection
+- demand and workforce requirements
+- recruitment planning
+- sourcing and channel activation
+- screening and selection
+- training readiness
 - onboarding
-- early-stage follow-up
+- early follow-up and retention
 
-Critical handoffs and responsibilities were clarified to reduce process variation.
+### 2. Data Collection & Candidate-Flow Analysis
 
-### 3. Candidate Funnel Management
+A major part of the transformation was establishing the information needed to understand recruitment performance.
 
-Candidate flow was monitored across stages rather than focusing only on final hiring volume.
+The approach included:
 
-Key indicators included:
+- structuring recruitment data
+- consolidating candidate flows
+- monitoring stage-by-stage progression
+- identifying losses and bottlenecks
+- comparing sourcing channels
+- analyzing lead time and conversion
+- connecting recruitment indicators with onboarding and early attrition
+- creating recurring reporting and review routines
 
-- sourcing volume
-- screening conversion
-- interview conversion
-- selection rate
-- onboarding completion
-- early attrition
+The objective was to move from fragmented recruitment activity to **evidence-based operational decisions**.
 
-### 4. Governance & Coordination
+### 3. Sourcing Channels, Marketing & Acquisition
+
+Recruitment was not treated as a single-channel activity.
+
+The operating model considered the contribution of:
+
+- sourcing channels
+- digital acquisition
+- referral mechanisms
+- recruitment campaigns
+- partnership / sourcing opportunities
+- communication and employer messaging
+- channel performance and candidate quality
+
+Where relevant, recruitment activity was coordinated with **marketing and communication actions** to strengthen candidate acquisition and improve the quality of the funnel.
+
+### 4. Recruitment Team Capability Development
+
+The transformation also covered the people responsible for recruitment.
+
+Development was structured around different roles, including:
+
+- Recruitment Officer / Recruitment Specialist
+- Recruitment Manager / Recruitment Lead
+
+Capability development included:
+
+- role clarification
+- métier / job-specific knowledge
+- recruitment techniques
+- candidate assessment
+- communication practices
+- evaluation criteria
+- follow-up methods
+- use of recruitment data and reporting
+- coaching and continuous improvement
+
+Training was followed by **application, observation, evaluation and follow-up**, rather than being treated as a one-time learning event.
+
+### 5. Planning, Coaching & Performance Management
+
+A structured action plan and planning rhythm were established to coordinate multiple workstreams.
+
+Management routines included:
+
+- structured planning
+- recurring reporting
+- performance reviews
+- coaching
+- corrective actions
+- process adjustments
+- decision-making based on observed data
+- follow-up of action effectiveness
+
+The management loop became:
+
+**Measure → Understand → Decide → Act → Coach → Re-measure → Adjust**
+
+### 6. Governance & Coordination
 
 The operating model connected Recruitment with Operations and relevant support functions through:
 
-- recurring performance reviews
+- workforce requirement reviews
 - shared KPI definitions
+- recurring performance reviews
 - action tracking
 - escalation mechanisms
-- workforce requirement reviews
-
-### 5. Performance Management
-
-The objective was to create a management loop:
-
-**Measure → Interpret → Decide → Act → Re-measure**
-
-KPIs were designed to support decisions rather than generate reporting for its own sake.
+- training coordination
+- onboarding alignment
+- cross-functional communication
 
 ## Key Results
 
@@ -95,33 +148,41 @@ Detailed source data and internal financial assumptions are intentionally exclud
 
 The operating model included:
 
-- recruitment process map
-- candidate funnel structure
+- end-to-end recruitment process map
+- workforce / recruitment planning structure
+- candidate-flow and funnel tracking
+- sourcing-channel monitoring
 - KPI framework
-- root-cause analysis approach
-- improvement action plan
-- performance monitoring
-- governance routines
-- control mechanisms
+- recruitment reporting
+- root-cause analysis
+- structured action plan
+- role and capability framework
+- training and evaluation approach
+- coaching and follow-up routines
+- Recruitment–Operations governance
+- onboarding alignment
+- sustainability controls
 
 ## Management View
 
-A recruitment dashboard should answer four questions:
+A recruitment performance system should answer:
 
 1. **What is happening?**
-2. **Why is it happening?**
-3. **What decision is required?**
-4. **Who owns the next action?**
+2. **Where is the flow changing or breaking?**
+3. **Why is it happening?**
+4. **What action is required?**
+5. **Who owns the action?**
+6. **How will effectiveness be verified?**
 
-This is the difference between recruitment reporting and recruitment performance management.
+This is the difference between recruitment reporting and **recruitment performance management**.
 
 ## Professional Approach
 
-**Design → Standardize → Measure → Govern → Improve → Sustain**
+**Design → Organize → Standardize → Measure → Govern → Develop → Improve → Sustain**
 
 The case demonstrates practical experience across:
 
-**Recruitment Operations + Process Improvement + Workforce Alignment + KPI Governance + Lean Six Sigma + PMO**
+**Recruitment Operations + Workforce Alignment + Data & Flow Analysis + Sourcing Strategy + Capability Development + KPI Governance + Lean Six Sigma + PMO**
 
 ## Confidentiality
 
