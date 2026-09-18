@@ -1,30 +1,46 @@
 # Recruitment KPI Framework
 
-A recruitment KPI should help management understand performance and decide where action is required.
+## KPI Architecture
 
-| KPI | Purpose | Frequency | Management Use |
-|---|---|---|---|
-| Recruitment Volume | Monitor demand and delivery | Weekly / Monthly | Capacity planning |
-| Recruitment Lead Time | Monitor speed of delivery | Weekly | Identify bottlenecks |
-| Candidate Conversion | Monitor funnel efficiency | Weekly | Improve sourcing / screening |
-| Selection Rate | Monitor hiring effectiveness | Weekly / Monthly | Review selection flow |
-| Onboarding Completion | Monitor transition into operations | Monthly | Identify onboarding gaps |
-| Early Attrition | Monitor early retention | Monthly | Investigate quality / retention issues |
-| SLA Compliance | Monitor recruitment delivery against commitments | Weekly / Monthly | Escalate service gaps |
+Recruitment KPIs should cover the complete operating chain rather than only recruitment volume.
 
-## KPI Design Rules
+| Category | KPI | Management Purpose |
+|---|---|---|
+| Demand | Recruitment Demand | Understand workforce requirement |
+| Delivery | Recruitment Volume | Monitor execution |
+| Speed | Recruitment Lead Time | Identify bottlenecks |
+| Funnel | Stage Conversion | Diagnose candidate flow |
+| Quality | Selection Quality | Monitor hiring effectiveness |
+| Readiness | Onboarding Completion | Monitor transition into operations |
+| Outcome | Early Attrition | Assess early retention |
+| Service | SLA Compliance | Monitor commitment delivery |
 
-Each KPI should have:
+## KPI Dictionary
 
-- A clear definition
-- A reliable data source
-- An accountable owner
-- A review frequency
-- A target or reference level
-- A predefined management response
+| KPI | Definition | Frequency | Owner | Action Trigger |
+|---|---|---|---|---|
+| Recruitment Demand | Confirmed operational recruitment requirement | Weekly | Recruitment / Operations | Gap vs. capacity |
+| Lead Time | Time from approved need to selected candidate | Weekly | Recruitment | Threshold exceeded |
+| Stage Conversion | Candidates progressing between defined stages | Weekly | Recruitment | Material drop |
+| Onboarding Completion | Required onboarding activities completed | Monthly | HR / Training | Completion gap |
+| Early Attrition | New employees leaving during defined early period | Monthly | Recruitment / HR | Threshold exceeded |
+| SLA Compliance | Recruitment delivery against agreed commitment | Weekly / Monthly | Recruitment | SLA gap |
 
-## Principle
+## KPI Governance Rules
+
+Every KPI requires:
+
+- definition
+- calculation method
+- data source
+- owner
+- frequency
+- target / reference level
+- inclusion / exclusion rules
+- management response
+
+## Management Principle
 
 **Measure → Interpret → Decide → Act**
 
-The objective is not to create more reporting, but to improve decision-making.
+A KPI has value only when it supports a decision or improvement action.
